@@ -15,6 +15,8 @@ Sou professor associado do curso de Ciência da Computação da Universidade Fed
 ---
 
 ### 📰 Últimos trabalhos
-* [Desenvolvimento de ambiente mobile gamificado com recursos de geolocalização e Realidade Aumentada para o fortalecimento do turismo](https://www.researchgate.net/publication/376776087_DESENVOLVIMENTO_DE_AMBIENTE_MOBILE_GAMIFICADO_COM_RECURSOS_DE_GEOLOCALIZACAO_E_REALIDADE_AUMENTADA_PARA_O_FORTALECIMENTO_DO_TURISMO)
-* [O uso da aprendizagem móvel e técnicas de gamificação como suporte ao ensino de matrizes](https://www.researchgate.net/publication/356863704_O_uso_da_aprendizagem_movel_e_tecnicas_de_gamificacao_como_suporte_ao_ensino_de_matrizes?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ)
-* [Informática na Educação e Educação em Computação: Estudos no extremo norte do Brasil](https://www.researchgate.net/profile/Luciano-Silva-61#:~:text=Inform%C3%A1tica%20na%20Educa%C3%A7%C3%A3o%20e%20Educa%C3%A7%C3%A3o%20em%20Computa%C3%A7%C3%A3o%3A%20Estudos%20no%20extremo%20norte%20do%20Brasil)
+📎[Desenvolvimento de ambiente mobile gamificado com recursos de geolocalização e Realidade Aumentada para o fortalecimento do turismo](https://www.researchgate.net/publication/376776087_DESENVOLVIMENTO_DE_AMBIENTE_MOBILE_GAMIFICADO_COM_RECURSOS_DE_GEOLOCALIZACAO_E_REALIDADE_AUMENTADA_PARA_O_FORTALECIMENTO_DO_TURISMO)
+
+📎[O uso da aprendizagem móvel e técnicas de gamificação como suporte ao ensino de matrizes](https://www.researchgate.net/publication/356863704_O_uso_da_aprendizagem_movel_e_tecnicas_de_gamificacao_como_suporte_ao_ensino_de_matrizes?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ)
+
+📎[Informática na Educação e Educação em Computação: Estudos no extremo norte do Brasil](https://www.researchgate.net/profile/Luciano-Silva-61#:~:text=Inform%C3%A1tica%20na%20Educa%C3%A7%C3%A3o%20e%20Educa%C3%A7%C3%A3o%20em%20Computa%C3%A7%C3%A3o%3A%20Estudos%20no%20extremo%20norte%20do%20Brasil)
